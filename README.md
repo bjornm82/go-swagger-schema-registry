@@ -8,6 +8,8 @@ go >1.15 (https://golang.org/dl/)
 mvn >3.6 (https://maven.apache.org/install.html)
 go-swagger (https://github.com/go-swagger/go-swagger)
 
+schema-registry running on localhost
+
 ### Workflow
 
 * `git clone https://github.com/confluentinc/schema-registry`

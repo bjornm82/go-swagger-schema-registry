@@ -38,7 +38,6 @@ func init() {
 }
 
 func main() {
-
 	b, err := cl.setTopLevelConfig("BACKWARD")
 	if err != nil {
 		log.Fatalln(err)
